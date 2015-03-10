@@ -1,11 +1,11 @@
-# LDProgressView
+#ProgressView
 
 Usage
 ===
 
 To build:
 
-	LDProgressView progressView = new LDProgressView.Builder(SampleActivity.this).setMessage("Loading...").build();
+	ProgressView progressView = new ProgressView.Builder(SampleActivity.this).setMessage("Loading...").build();
 
 To show:
 
